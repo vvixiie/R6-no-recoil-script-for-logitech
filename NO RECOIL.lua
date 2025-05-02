@@ -3,7 +3,7 @@ EnableRC          = true                  -- Master switch
 RequireToggle     = true                  -- Require toggle key
 ToggleKey         = "CapsLock"            -- Toggle key (e.g., "CapsLock")
 
-RecoilControlMode = "ECHO"                -- Select weapon preset
+RecoilControlMode = "ECHO"                -- Select operator preset
 
 -- =============== RECOIL VALUES (Presets) ===============
 local RecoilPresets = {
